@@ -25,7 +25,7 @@ export default IndexPage;
 export const Head = () => (
   <>
     <title>Easybank Landing Page - Frontend Mentor Challenge</title>
-    <link rel="icon" type="image/png" href="/images/favicon-32x32.png"></link>
+    <link rel="icon" type="image/png" href="./images/favicon-32x32.png"></link>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link

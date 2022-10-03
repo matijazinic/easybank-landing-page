@@ -3,28 +3,28 @@ import React from "react";
 const articles = [
   {
     title: "Receive money in any currency with no fees",
-    icon: "/images/image-currency.jpg",
+    icon: "./images/image-currency.jpg",
     content:
       "The world is getting smaller and we're becoming more mobile. So why should you be forced to only receive money in a single …",
     author: "Claire Robinson",
   },
   {
     title: "Treat yourself without worrying about money",
-    icon: "/images/image-restaurant.jpg",
+    icon: "./images/image-restaurant.jpg",
     content:
       " Our simple budgeting feature allows you to separate out your spending and set realistic limits each month. That means you …",
     author: "Wilson Hutton",
   },
   {
     title: "Take your Easybank card wherever you go",
-    icon: "/images/image-plane.jpg",
+    icon: "./images/image-plane.jpg",
     content:
       "We want you to enjoy your travels. This is why we don't charge any fees on purchases while you're abroad. We'll even show you …",
     author: "Wilson Hutton",
   },
   {
     title: "Our invite-only Beta accounts are now live!",
-    icon: "/images/image-confetti.jpg",
+    icon: "./images/image-confetti.jpg",
     content:
       "After a lot of hard work by the whole team, we're excited to launch our closed beta. It's easy to request an invite through the site ...",
     author: "Claire Robinson",

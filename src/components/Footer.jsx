@@ -5,30 +5,30 @@ function Footer() {
     <footer className="footer-wrapper pb-4">
       <div className="footer-content container">
         <div className="footer-left">
-          <img src="/images/logo-white.svg" alt="" className="footer-logo" />
+          <img src="./images/logo-white.svg" alt="" className="footer-logo" />
           <div className="social-media">
             <img
-              src="/images/icon-facebook.svg"
+              src="./images/icon-facebook.svg"
               alt=""
               className="social-media-icon"
             />
             <img
-              src="/images/icon-youtube.svg"
+              src="./images/icon-youtube.svg"
               alt=""
               className="social-media-icon"
             />
             <img
-              src="/images/icon-twitter.svg"
+              src="./images/icon-twitter.svg"
               alt=""
               className="social-media-icon"
             />
             <img
-              src="/images/icon-pinterest.svg"
+              src="./images/icon-pinterest.svg"
               alt=""
               className="social-media-icon"
             />
             <img
-              src="/images/icon-instagram.svg"
+              src="./images/icon-instagram.svg"
               alt=""
               className="social-media-icon"
             />

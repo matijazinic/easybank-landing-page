@@ -7,7 +7,7 @@ function Navbar() {
     <header className="header-wrapper">
       <div className="header-content container">
         <a href="#">
-          <img src="/images/logo.svg" alt="" className="nav-logo" />
+          <img src="./images/logo.svg" alt="" className="nav-logo" />
         </a>
         <button
           className={`hamburger-menu ${

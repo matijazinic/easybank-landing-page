@@ -167,7 +167,7 @@ h4 {
 
 .hero-wrapper {
   position: relative;
-  background-image: url(/images/bg-intro-desktop.svg);
+  background-image: url(/easybank-landing-page/images/bg-intro-desktop.svg);
   background-position: 55vw center;
   background-repeat: no-repeat;
   background-color: var(--clr-neut-very-light-gray);
@@ -294,7 +294,8 @@ footer {
 
 .footer-content {
   display: flex;
-  gap: 10vw; /* align-items: center; */
+  gap: 10vw;
+  /* align-items: center; */
 }
 
 .footer-content > * {
@@ -347,6 +348,7 @@ footer {
   font-size: 0.75rem;
   text-align: center;
 }
+
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
@@ -361,6 +363,7 @@ footer {
   h1 {
     font-size: 3.5rem;
   }
+
   .hero-content {
     margin-block: -7rem;
   }
@@ -413,7 +416,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/images/icon-hamburger.svg);
+    background-image: url(/easybank-landing-page/images/icon-hamburger.svg);
     background-repeat: no-repeat;
     object-fit: cover;
     background-position: center;
@@ -426,12 +429,13 @@ footer {
   }
 
   .hamburger-menu-open {
-    background-image: url(/images/icon-close.svg);
+    background-image: url(/easybank-landing-page/images/icon-close.svg);
   }
 
   .header-content .btn {
     display: none;
   }
+
   .container-sm {
     padding-inline: 0;
   }
@@ -439,6 +443,7 @@ footer {
   .hero-wrapper {
     background: none;
   }
+
   .hero-content {
     grid-template-columns: repeat(1, 1fr);
     margin-block: -20rem auto;
@@ -458,7 +463,7 @@ footer {
   .hero-right {
     order: 1;
     position: relative;
-    background-image: url(/images/bg-intro-desktop.svg);
+    background-image: url(/easybank-landing-page/images/bg-intro-desktop.svg);
     background-position: center;
     background-repeat: no-repeat;
     background-color: var(--clr-neut-very-light-gray);
@@ -508,6 +513,7 @@ footer {
   .nav-wrapper {
     padding-block: 2rem;
   }
+
   h1 {
     font-size: 3rem;
   }
@@ -525,6 +531,7 @@ footer {
   .header-wrapper .container {
     padding-inline: 2rem;
   }
+
   .features-cards,
   .articles-list {
     grid-template-columns: repeat(1, 1fr);
